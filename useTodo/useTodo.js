@@ -1,6 +1,6 @@
 import { useEffect, useReducer } from "react"
 
-import { todoRedurcer } from "../08-useReducer/todoRedurcer";
+import { todoRedurcer } from "./todoRedurcer";
 
 const initialState = [];
 
